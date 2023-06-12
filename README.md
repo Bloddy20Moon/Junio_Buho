@@ -1,4 +1,8 @@
-# Junio_Buho
+# Junio_Buho PAGO PAYPAL
+# INTEGRANTES:
+* Xiomara Huerta
+* Maricarmen Catalina Raymundo Romero
+* Yo (Adrian Josue Alvarado Sanchez)
 PARTE 1 - REGISTRO DE PAGOS CON HTML MEDIANTE PAYPAL
 >Proposito: Crearemos una html con css para rellenar la venta y poder pagarlo por medio de PAYPAL
 
